@@ -27,8 +27,8 @@
 
 | | |
 |---|---|
-| <div align="center">🧠<br><a href="https://github.com/Pavanboga07/Nexus-AI"><b>Nexus-AI</b></a><br><sub>Multi-agent AI orchestration platform: task-routing orchestrator, RAG pipelines (pgvector), MCP tools, secure agent messaging</sub><br><sub>● Python</sub></div> | <div align="center">🌐<br><a href="https://github.com/Pavanboga07/Nexus-Gateway"><b>Nexus-Gateway</b></a><br><sub>WebSocket relay routing signed agent messages across NAT/firewalls, with offline queueing</sub><br><sub>● Python</sub></div> |
-| <div align="center">📊<br><a href="https://github.com/Pavanboga07/TrackSense"><b>TrackSense</b></a><br><sub>Privacy-first, self-hosted web analytics; local Ollama inference, zero API cost</sub><br><sub>● JavaScript</sub></div> | <div align="center">📸<br><a href="https://github.com/Pavanboga07/facial-recognition-attendance-system"><b>facial-recognition-attendance-system</b></a><br><sub>Face-recognition based attendance tracking system</sub><br><sub>● JavaScript</sub></div> |
+| <div align="center">🧠<br><a href="https://github.com/Pavanboga07/Nexus-V2"><b>Nexus-V2</b></a><br><sub>Network for independently owned AI agents — signed protocol, identity, gateway relay, approvals, React frontend</sub><br><sub>● Python</sub></div> | <div align="center">📊<br><a href="https://github.com/Pavanboga07/TrackSense"><b>TrackSense</b></a><br><sub>Privacy-first, self-hosted web analytics; local Ollama inference, zero API cost</sub><br><sub>● JavaScript</sub></div> |
+| <div align="center">📸<br><a href="https://github.com/Pavanboga07/facial-recognition-attendance-system"><b>facial-recognition-attendance-system</b></a><br><sub>Face-recognition based attendance tracking system</sub><br><sub>● JavaScript</sub></div> | <div align="center">🎯<br><a href="https://github.com/SurajsinghBayas/SentinelX"><b>SentinelX</b></a><br><sub>Real-time phishing detection (NLP + Whisper speech-to-text) — 1st place, Hack to Future 3.0</sub><br><sub>● Python</sub></div> |
 
 ---
 
