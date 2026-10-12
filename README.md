@@ -35,11 +35,6 @@
 
 </div>
 
-- 🧠 **AI Nexus** — multi-agent AI orchestration platform: central orchestrator routes tasks to specialist agents, RAG pipelines (embeddings + pgvector) ground agents in real context, MCP-compatible tools, secure agent-to-agent messaging
-- 🌐 **Nexus Gateway** — standalone WebSocket relay routing signed agent messages across NAT/firewalls, with challenge-response auth and offline queueing
-- 📊 **TrackSense** — privacy-first, self-hosted web analytics (JS snippet + Node.js + live dashboard); local Ollama inference, zero API cost
-- 🎯 **SentinelX** — real-time phishing detection fusing NLP classification + Whisper speech-to-text into one risk score; built end-to-end (incl. Flutter app) in a 24-hour hackathon
-
 ---
 
 ## 🛠️ Tech Stack
@@ -49,7 +44,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **AI / ML**
 ![LLM Agents](https://img.shields.io/badge/LLM_Agents-8A2BE2?style=for-the-badge)
@@ -65,7 +59,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
