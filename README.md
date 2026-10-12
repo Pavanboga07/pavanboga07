@@ -35,6 +35,11 @@
 
 </div>
 
+- 🧠 **Nexus-AI** — multi-agent AI orchestration platform: task-routing orchestrator, RAG pipelines (pgvector), MCP tools, secure agent messaging
+- 🌐 **Nexus-Gateway** — WebSocket relay routing signed agent messages across NAT/firewalls with offline queueing
+- 📊 **TrackSense** — privacy-first self-hosted web analytics; local Ollama inference, zero API cost
+- 📸 **facial-recognition-attendance-system** — face-recognition based attendance tracking system
+
 ---
 
 ## 🛠️ Tech Stack
@@ -72,12 +77,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=pavanboga07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
 
 ---
 
