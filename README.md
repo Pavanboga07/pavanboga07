@@ -25,20 +25,10 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![Nexus-AI](https://github-readme-stats.vercel.app/api/pin/?username=Pavanboga07&repo=Nexus-AI&theme=radical&hide_border=false)](https://github.com/Pavanboga07/Nexus-AI)
-[![Nexus-Gateway](https://github-readme-stats.vercel.app/api/pin/?username=Pavanboga07&repo=Nexus-Gateway&theme=radical&hide_border=false)](https://github.com/Pavanboga07/Nexus-Gateway)
-
-[![TrackSense](https://github-readme-stats.vercel.app/api/pin/?username=Pavanboga07&repo=TrackSense&theme=radical&hide_border=false)](https://github.com/Pavanboga07/TrackSense)
-[![facial-recognition-attendance-system](https://github-readme-stats.vercel.app/api/pin/?username=Pavanboga07&repo=facial-recognition-attendance-system&theme=radical&hide_border=false)](https://github.com/Pavanboga07/facial-recognition-attendance-system)
-
-</div>
-
-- 🧠 **Nexus-AI** — multi-agent AI orchestration platform: task-routing orchestrator, RAG pipelines (pgvector), MCP tools, secure agent messaging
-- 🌐 **Nexus-Gateway** — WebSocket relay routing signed agent messages across NAT/firewalls with offline queueing
-- 📊 **TrackSense** — privacy-first self-hosted web analytics; local Ollama inference, zero API cost
-- 📸 **facial-recognition-attendance-system** — face-recognition based attendance tracking system
+| | |
+|---|---|
+| <div align="center">🧠<br><a href="https://github.com/Pavanboga07/Nexus-AI"><b>Nexus-AI</b></a><br><sub>Multi-agent AI orchestration platform: task-routing orchestrator, RAG pipelines (pgvector), MCP tools, secure agent messaging</sub><br><sub>● Python</sub></div> | <div align="center">🌐<br><a href="https://github.com/Pavanboga07/Nexus-Gateway"><b>Nexus-Gateway</b></a><br><sub>WebSocket relay routing signed agent messages across NAT/firewalls, with offline queueing</sub><br><sub>● Python</sub></div> |
+| <div align="center">📊<br><a href="https://github.com/Pavanboga07/TrackSense"><b>TrackSense</b></a><br><sub>Privacy-first, self-hosted web analytics; local Ollama inference, zero API cost</sub><br><sub>● JavaScript</sub></div> | <div align="center">📸<br><a href="https://github.com/Pavanboga07/facial-recognition-attendance-system"><b>facial-recognition-attendance-system</b></a><br><sub>Face-recognition based attendance tracking system</sub><br><sub>● JavaScript</sub></div> |
 
 ---
 
